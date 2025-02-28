@@ -6,4 +6,10 @@
         <to-view-id>/home.xhtml</to-view-id>
         <redirect/>
     </navigation-case>
+    <managed-bean>
+        <managed-bean-name>visiteBean</managed-bean-name>
+        <managed-bean-class>com.jakarkaeeudbl.bienvenue.beans.VisiteBean</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+    </managed-bean>
+
 </navigation-rule>

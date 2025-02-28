@@ -77,7 +77,9 @@ public class Utilisateur {
     }
     
     
-    
+        public Long getId() {
+        return id;
+    }
 
       
       

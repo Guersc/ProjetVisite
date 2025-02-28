@@ -25,6 +25,12 @@
             <artifactId>jbcrypt</artifactId>
             <version>0.4</version>
         </dependency>
+        <dependency>
+            <groupId>dev.zio</groupId>
+            <artifactId>zio-http-cli_2.12</artifactId>
+            <version>3.0.0-RC1</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
     
     <build>

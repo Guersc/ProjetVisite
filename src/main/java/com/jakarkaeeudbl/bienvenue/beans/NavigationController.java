@@ -14,7 +14,7 @@ public class NavigationController {
     }
 
     public String visiter() {
-        return "visiter";
+        return "pages/guide";
     }
 
     public String voirApropos() {
